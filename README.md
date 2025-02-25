@@ -11,7 +11,6 @@ I am a certified **IT Project Manager**, **Scrum Master**, soon-to-be **Web Deve
 <p align="center"> <img hight="250" width="150" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo5OHV2dm5rOGVvenNjOGl6NzQzcXZwNjU3dWxtb3d0OWUwbWViMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif"> </p> 
 
 # Tools 🛠
-![Static Badge](https://img.shields.io/badge/Jira?style=for-the-badge&logo=%230052CC&logoColor=blue)
 
 
 
@@ -19,4 +18,3 @@ I am a certified **IT Project Manager**, **Scrum Master**, soon-to-be **Web Deve
 
 
 
-<p align="center">
