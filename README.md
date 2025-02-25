@@ -2,10 +2,9 @@
 <br> <p align="center">
 I am a certified **IT Project Manager**, **Scrum Master**, soon-to-be **Web Developer** and a :sparkles: **Swiftie** :sparkles: </p> 
 </br>
-<br> 
 <p align="center"> - :shipit: Currently I am working on slaying Web Dev skills at Spiced Academy in Berlin
 </p> 
-</br>
+
 <br> <p align="center">  - :postbox: You can reach me via ***svertokina92@gmail.com*** or ***Telegram: alohafhell*** 
 </p> 
 </br>
