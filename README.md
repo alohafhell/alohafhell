@@ -13,8 +13,7 @@ I am a certified **IT Project Manager**, **Scrum Master**, soon-to-be **Web Deve
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=alohafhell.alohafhell&color=00cf00)
 
 # Tools 🛠
-[![My Skills](https://skillicons.dev/icons?i=notion,linkedin,jira)](https://skillicons.dev)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira)](https://go-skill-icons.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=notion,linkedin,jira)](https://skillicons.dev)[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,miro,teamstelegram,)](https://go-skill-icons.vercel.app)
 
 
 
