@@ -14,6 +14,7 @@ I am a certified **IT Project Manager**, **Scrum Master**, soon-to-be **Web Deve
 
 # Tools 🛠
 [![My Skills](https://skillicons.dev/icons?i=notion,linkedin,jira)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira)](https://go-skill-icons.vercel.app)
 
 
 
